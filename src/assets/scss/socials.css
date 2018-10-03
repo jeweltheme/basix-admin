@@ -1,0 +1,78 @@
+$radius: 75px;
+$color: #000;
+$bg: #fff;
+
+$colors: (
+  "mail": #0072C6,
+  "facebook": #3b5999,
+  "linkedin": #0077b5,
+  "github": #6e5494,
+  "codepen": #212121
+);
+
+
+.social {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  &__button {
+    display: block;
+    width: $radius;
+    height: $radius;
+    border-radius: 100%;
+    background: $bg;
+    position: relative;
+    cursor: pointer;
+    margin: 5px;
+    text-align: center;
+
+    i {
+      display: inline-block;
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: $radius;
+      line-height: $radius;
+      width: $radius;
+      font-size: $radius / 2;
+      color: $color;
+      z-index: 2;
+      transition: 0.3s;
+    }
+
+    &:after {
+      content: '';
+      display: block;
+      position: absolute;
+      background: $color;
+      border-radius: 100%;
+      width: 0;
+      height: 0;
+      transition: 0.3s;
+      top: 0;
+      left: 50%;
+    }
+
+    &:hover i {
+      color: $bg;
+    }
+
+    &:hover:after {
+      width: $radius;
+      height: $radius;
+      margin-left: -1 * $radius / 2;
+    }
+  }
+}
+
+@each $name, $color in $colors {
+  .#{$name} {
+    i {
+      color: $color;
+    }
+    &:after {
+      background: $color;
+    }
+  }
+}
