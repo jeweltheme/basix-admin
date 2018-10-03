@@ -8,7 +8,7 @@
 
 # Get More [Free VueJS BootStrap Admin Templates](https://vuejsadmin.com) #
 
-Check out Basix Admin Template Pro [Themeforest Page](https://vuejsadmin.com/product/arbano-vuejs-admin-pro/).
+Check out Basix Admin Template Pro [Themeforest Page](https://themeforest.net/item/basix-admin-vuejs-bootstrap-admin-dashboard-template/20838455).
 
 ## Basix Admin Dashboard Template ##
 
@@ -18,7 +18,7 @@ You can access to 5000+ Icons (Fontawesome, Brandico, Entypo, Fontelico, Glyphic
 
 **NOTE: Please remember to STAR this project and FOLLOW my Github to stay up to date with this template.**
 
-## [Demo](https://demos.vuejsadmin.com/basix/) ##
+## [Demo](https://preview.vuejsadmin.com/item/basix-admin) ##
 ## [Documentation](https://docs.vuejsadmin.com/basix-admin) ##
 ## [Arbano PRO](https://vuejsadmin.com/product/arbano-vuejs-admin-pro/) ##
 ## [Nixon PRO](https://vuejsadmin.com/product/nixon-pro/) ##
@@ -74,7 +74,7 @@ npm run build
 ### License ###
 
 MIT License
-Copyright (c) 2017 Jewel Theme
+Copyright (c) 2018 Jewel Theme
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
