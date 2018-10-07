@@ -1,2 +1,80 @@
-webpackJsonp([12],{1053:function(t,a,v){var _=v(1054);"string"==typeof _&&(_=[[t.i,_,""]]),_.locals&&(t.exports=_.locals);v(2)("77bd8d03",_,!0,{})},1054:function(t,a,v){a=t.exports=v(1)(!1),a.push([t.i,".table thead tr{color:#007bff}.error-icon{color:#e34a4a}.success-icon{display:inline-block;color:#4ae387}.table-sm td,.table-sm th{padding:.7rem}.color-icon-label-table td:first-child{width:1rem}",""])},1055:function(t,a,v){"use strict";var _=function(){var t=this,a=t.$createElement,v=t._self._c||a;return v("div",[v("div",{staticClass:"row"},[v("div",{staticClass:"col-xs-12 col-md-12"},[v("card",{attrs:{"header-text":"Basic Table"}},[v("div",{staticClass:"table-responsive"},[v("table",{staticClass:"table table-striped first-td-padding"},[v("thead",[v("tr",[v("td",[t._v("Name")]),t._v(" "),v("td",[t._v("Email")]),t._v(" "),v("td",[t._v("City")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("Score")]),t._v(" "),v("td")])]),t._v(" "),v("tbody",[v("tr",[v("td",[t._v("Matthew McCormick")]),t._v(" "),v("td",[t._v("matthew30@mail.ol")]),t._v(" "),v("td",[t._v("Vancouver")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("93")]),t._v(" "),v("td")]),t._v(" "),v("tr",[v("td",[t._v("Nancy Bo")]),t._v(" "),v("td",[t._v("nancy@boonweb.com")]),t._v(" "),v("td",[t._v("Washington")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("280")]),t._v(" "),v("td")]),t._v(" "),v("tr",[v("td",[t._v("Frederiko Lopez")]),t._v(" "),v("td",[t._v("fr.lopez@webmail.sp")]),t._v(" "),v("td",[t._v("Barcelona")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("16")]),t._v(" "),v("td")]),t._v(" "),v("tr",[v("td",[t._v("Stanley Hummer")]),t._v(" "),v("td",[t._v("mr_winner_2999@gmail.cb")]),t._v(" "),v("td",[t._v("Manchester")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("57")]),t._v(" "),v("td")]),t._v(" "),v("tr",[v("td",[t._v("Lendley Wintz")]),t._v(" "),v("td",[t._v("9938198146@mailster.io")]),t._v(" "),v("td",[t._v("Wien")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("113")]),t._v(" "),v("td")]),t._v(" "),v("tr",[v("td",[t._v("Barbara Noz")]),t._v(" "),v("td",[t._v("barbaranoz@mailster.io")]),t._v(" "),v("td",[t._v("Brussels")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("68")]),t._v(" "),v("td")]),t._v(" "),v("tr",[v("td",[t._v("Matthew McCormick")]),t._v(" "),v("td",[t._v("matthew30@mail.ol")]),t._v(" "),v("td",[t._v("Vancouver")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("93")]),t._v(" "),v("td")]),t._v(" "),v("tr",[v("td",[t._v("Nancy Bo")]),t._v(" "),v("td",[t._v("nancy@boonweb.com")]),t._v(" "),v("td",[t._v("Washington")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("280")]),t._v(" "),v("td")])])])])])],1)]),t._v(" "),v("div",{staticClass:"row"},[v("div",{staticClass:"col-md-12"},[v("card",{attrs:{"header-text":"Colors, Icons, Labels"}},[v("div",{staticClass:"table-responsive"},[v("table",{staticClass:"table table-striped table-sm color-icon-label-table"},[v("thead",[v("tr",[v("td"),t._v(" "),v("td",[t._v("Name")]),t._v(" "),v("td",[t._v("Email")]),t._v(" "),v("td",[t._v("City")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("Score")]),t._v(" "),v("td",{attrs:{align:"middle"}})])]),t._v(" "),v("tbody",[v("tr",[v("td"),t._v(" "),v("td",[t._v("Matthew McCormick")]),t._v(" "),v("td",[t._v("matthew30@mail.ol")]),t._v(" "),v("td",[t._v("Vancouver")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("93")]),t._v(" "),v("td",{attrs:{align:"middle"}})]),t._v(" "),v("tr",[v("td"),t._v(" "),v("td",[t._v("Nancy Bo")]),t._v(" "),v("td",[t._v("nancy@boonweb.com")]),t._v(" "),v("td",[t._v("Washington")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("280")]),t._v(" "),v("td",{attrs:{align:"middle"}})]),t._v(" "),v("tr",[v("td"),t._v(" "),v("td",[t._v("Frederiko Lopez")]),t._v(" "),v("td",[t._v("fr.lopez@webmail.sp")]),t._v(" "),v("td",[t._v("Barcelona")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("16")]),t._v(" "),v("td",{attrs:{align:"middle"}})]),t._v(" "),v("tr",{staticClass:"table-danger"},[v("td",[v("span",{staticClass:"badge badge-pill badge-danger"},[t._v("DANGER")])]),t._v(" "),v("td",[t._v("Stanley Hummer")]),t._v(" "),v("td",[t._v("mr_winner_2999@gmail.cb")]),t._v(" "),v("td",[t._v("Manchester")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("57")]),t._v(" "),v("td",{attrs:{align:"middle"}},[v("i",{staticClass:"fa fa-exclamation-triangle icon-right input-icon error-icon"})])]),t._v(" "),v("tr",{staticClass:"table-success"},[v("td",[v("span",{staticClass:"badge badge-pill badge-primary"},[t._v("SUCCESS")])]),t._v(" "),v("td",[t._v("Lendley Wintz")]),t._v(" "),v("td",[t._v("9938198146@mailster.io")]),t._v(" "),v("td",[t._v("Wien")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("113")]),t._v(" "),v("td",{staticClass:"valid",attrs:{align:"middle"}},[v("i",{staticClass:"fa fa-check success-icon icon-right input-icon"})])]),t._v(" "),v("tr",{staticClass:"table-warning"},[v("td",[v("span",{staticClass:"badge badge-pill badge-warning"},[t._v("WARNING")])]),t._v(" "),v("td",[t._v("Barbara Noz")]),t._v(" "),v("td",[t._v("barbaranoz@mailster.io")]),t._v(" "),v("td",[t._v("Brussels")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("68")]),t._v(" "),v("td",{attrs:{align:"middle"}})]),t._v(" "),v("tr",[v("td"),t._v(" "),v("td",[t._v("Matthew McCormick")]),t._v(" "),v("td",[t._v("matthew30@mail.ol")]),t._v(" "),v("td",[t._v("Vancouver")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("93")]),t._v(" "),v("td",{attrs:{align:"middle"}})]),t._v(" "),v("tr",{staticClass:"table-info"},[v("td",[v("span",{staticClass:"badge badge-pill badge-info"},[t._v("INFO")])]),t._v(" "),v("td",[t._v("Nancy Bo")]),t._v(" "),v("td",[t._v("nancy@boonweb.com")]),t._v(" "),v("td",[t._v("Washington")]),t._v(" "),v("td",{attrs:{align:"right"}},[t._v("280")]),t._v(" "),v("td",{attrs:{align:"middle"}})])])])])])],1)])])},d=[],i={render:_,staticRenderFns:d};a.a=i},67:function(t,a,v){"use strict";function _(t){v(1053)}Object.defineProperty(a,"__esModule",{value:!0});var d=v(1055),i=v(0),r=_,e=i(null,d.a,!1,r,null,null);a.default=e.exports}});
+webpackJsonp([12],{
+
+/***/ 1053:
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(1054);
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var update = __webpack_require__(2)("77bd8d03", content, true, {});
+
+/***/ }),
+
+/***/ 1054:
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(1)(false);
+// imports
+
+
+// module
+exports.push([module.i, ".table thead tr{color:#007bff}.error-icon{color:#e34a4a}.success-icon{display:inline-block;color:#4ae387}.table-sm td,.table-sm th{padding:.7rem}.color-icon-label-table td:first-child{width:1rem}", ""]);
+
+// exports
+
+
+/***/ }),
+
+/***/ 1055:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('div',{staticClass:"row"},[_c('div',{staticClass:"col-xs-12 col-md-12"},[_c('card',{attrs:{"header-text":"Basic Table"}},[_c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"table table-striped first-td-padding"},[_c('thead',[_c('tr',[_c('td',[_vm._v("Name")]),_vm._v(" "),_c('td',[_vm._v("Email")]),_vm._v(" "),_c('td',[_vm._v("City")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("Score")]),_vm._v(" "),_c('td')])]),_vm._v(" "),_c('tbody',[_c('tr',[_c('td',[_vm._v("Matthew McCormick")]),_vm._v(" "),_c('td',[_vm._v("matthew30@mail.ol")]),_vm._v(" "),_c('td',[_vm._v("Vancouver")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("93")]),_vm._v(" "),_c('td')]),_vm._v(" "),_c('tr',[_c('td',[_vm._v("Nancy Bo")]),_vm._v(" "),_c('td',[_vm._v("nancy@boonweb.com")]),_vm._v(" "),_c('td',[_vm._v("Washington")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("280")]),_vm._v(" "),_c('td')]),_vm._v(" "),_c('tr',[_c('td',[_vm._v("Frederiko Lopez")]),_vm._v(" "),_c('td',[_vm._v("fr.lopez@webmail.sp")]),_vm._v(" "),_c('td',[_vm._v("Barcelona")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("16")]),_vm._v(" "),_c('td')]),_vm._v(" "),_c('tr',[_c('td',[_vm._v("Stanley Hummer")]),_vm._v(" "),_c('td',[_vm._v("mr_winner_2999@gmail.cb")]),_vm._v(" "),_c('td',[_vm._v("Manchester")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("57")]),_vm._v(" "),_c('td')]),_vm._v(" "),_c('tr',[_c('td',[_vm._v("Lendley Wintz")]),_vm._v(" "),_c('td',[_vm._v("9938198146@mailster.io")]),_vm._v(" "),_c('td',[_vm._v("Wien")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("113")]),_vm._v(" "),_c('td')]),_vm._v(" "),_c('tr',[_c('td',[_vm._v("Barbara Noz")]),_vm._v(" "),_c('td',[_vm._v("barbaranoz@mailster.io")]),_vm._v(" "),_c('td',[_vm._v("Brussels")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("68")]),_vm._v(" "),_c('td')]),_vm._v(" "),_c('tr',[_c('td',[_vm._v("Matthew McCormick")]),_vm._v(" "),_c('td',[_vm._v("matthew30@mail.ol")]),_vm._v(" "),_c('td',[_vm._v("Vancouver")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("93")]),_vm._v(" "),_c('td')]),_vm._v(" "),_c('tr',[_c('td',[_vm._v("Nancy Bo")]),_vm._v(" "),_c('td',[_vm._v("nancy@boonweb.com")]),_vm._v(" "),_c('td',[_vm._v("Washington")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("280")]),_vm._v(" "),_c('td')])])])])])],1)]),_vm._v(" "),_c('div',{staticClass:"row"},[_c('div',{staticClass:"col-md-12"},[_c('card',{attrs:{"header-text":"Colors, Icons, Labels"}},[_c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"table table-striped table-sm color-icon-label-table"},[_c('thead',[_c('tr',[_c('td'),_vm._v(" "),_c('td',[_vm._v("Name")]),_vm._v(" "),_c('td',[_vm._v("Email")]),_vm._v(" "),_c('td',[_vm._v("City")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("Score")]),_vm._v(" "),_c('td',{attrs:{"align":"middle"}})])]),_vm._v(" "),_c('tbody',[_c('tr',[_c('td'),_vm._v(" "),_c('td',[_vm._v("Matthew McCormick")]),_vm._v(" "),_c('td',[_vm._v("matthew30@mail.ol")]),_vm._v(" "),_c('td',[_vm._v("Vancouver")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("93")]),_vm._v(" "),_c('td',{attrs:{"align":"middle"}})]),_vm._v(" "),_c('tr',[_c('td'),_vm._v(" "),_c('td',[_vm._v("Nancy Bo")]),_vm._v(" "),_c('td',[_vm._v("nancy@boonweb.com")]),_vm._v(" "),_c('td',[_vm._v("Washington")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("280")]),_vm._v(" "),_c('td',{attrs:{"align":"middle"}})]),_vm._v(" "),_c('tr',[_c('td'),_vm._v(" "),_c('td',[_vm._v("Frederiko Lopez")]),_vm._v(" "),_c('td',[_vm._v("fr.lopez@webmail.sp")]),_vm._v(" "),_c('td',[_vm._v("Barcelona")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("16")]),_vm._v(" "),_c('td',{attrs:{"align":"middle"}})]),_vm._v(" "),_c('tr',{staticClass:"table-danger"},[_c('td',[_c('span',{staticClass:"badge badge-pill badge-danger"},[_vm._v("DANGER")])]),_vm._v(" "),_c('td',[_vm._v("Stanley Hummer")]),_vm._v(" "),_c('td',[_vm._v("mr_winner_2999@gmail.cb")]),_vm._v(" "),_c('td',[_vm._v("Manchester")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("57")]),_vm._v(" "),_c('td',{attrs:{"align":"middle"}},[_c('i',{staticClass:"fa fa-exclamation-triangle icon-right input-icon error-icon"})])]),_vm._v(" "),_c('tr',{staticClass:"table-success"},[_c('td',[_c('span',{staticClass:"badge badge-pill badge-primary"},[_vm._v("SUCCESS")])]),_vm._v(" "),_c('td',[_vm._v("Lendley Wintz")]),_vm._v(" "),_c('td',[_vm._v("9938198146@mailster.io")]),_vm._v(" "),_c('td',[_vm._v("Wien")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("113")]),_vm._v(" "),_c('td',{staticClass:"valid",attrs:{"align":"middle"}},[_c('i',{staticClass:"fa fa-check success-icon icon-right input-icon"})])]),_vm._v(" "),_c('tr',{staticClass:"table-warning"},[_c('td',[_c('span',{staticClass:"badge badge-pill badge-warning"},[_vm._v("WARNING")])]),_vm._v(" "),_c('td',[_vm._v("Barbara Noz")]),_vm._v(" "),_c('td',[_vm._v("barbaranoz@mailster.io")]),_vm._v(" "),_c('td',[_vm._v("Brussels")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("68")]),_vm._v(" "),_c('td',{attrs:{"align":"middle"}})]),_vm._v(" "),_c('tr',[_c('td'),_vm._v(" "),_c('td',[_vm._v("Matthew McCormick")]),_vm._v(" "),_c('td',[_vm._v("matthew30@mail.ol")]),_vm._v(" "),_c('td',[_vm._v("Vancouver")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("93")]),_vm._v(" "),_c('td',{attrs:{"align":"middle"}})]),_vm._v(" "),_c('tr',{staticClass:"table-info"},[_c('td',[_c('span',{staticClass:"badge badge-pill badge-info"},[_vm._v("INFO")])]),_vm._v(" "),_c('td',[_vm._v("Nancy Bo")]),_vm._v(" "),_c('td',[_vm._v("nancy@boonweb.com")]),_vm._v(" "),_c('td',[_vm._v("Washington")]),_vm._v(" "),_c('td',{attrs:{"align":"right"}},[_vm._v("280")]),_vm._v(" "),_c('td',{attrs:{"align":"middle"}})])])])])])],1)])])}
+var staticRenderFns = []
+var esExports = { render: render, staticRenderFns: staticRenderFns }
+/* harmony default export */ __webpack_exports__["a"] = (esExports);
+
+/***/ }),
+
+/***/ 67:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__node_modules_vue_loader_lib_template_compiler_index_id_data_v_81816900_hasScoped_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_Tables_vue__ = __webpack_require__(1055);
+function injectStyle (ssrContext) {
+  __webpack_require__(1053)
+}
+var normalizeComponent = __webpack_require__(0)
+/* script */
+var __vue_script__ = null
+/* template */
+
+/* template functional */
+var __vue_template_functional__ = false
+/* styles */
+var __vue_styles__ = injectStyle
+/* scopeId */
+var __vue_scopeId__ = null
+/* moduleIdentifier (server only) */
+var __vue_module_identifier__ = null
+var Component = normalizeComponent(
+  __vue_script__,
+  __WEBPACK_IMPORTED_MODULE_0__node_modules_vue_loader_lib_template_compiler_index_id_data_v_81816900_hasScoped_false_buble_transforms_node_modules_vue_loader_lib_selector_type_template_index_0_Tables_vue__["a" /* default */],
+  __vue_template_functional__,
+  __vue_styles__,
+  __vue_scopeId__,
+  __vue_module_identifier__
+)
+
+/* harmony default export */ __webpack_exports__["default"] = (Component.exports);
+
+
+/***/ })
+
+});
 //# sourceMappingURL=12.build.js.map

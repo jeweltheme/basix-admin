@@ -1,13 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" id="flag-icon-css-vn">
+<svg xmlns="http://www.w3.org/2000/svg" height="512" width="512" id="flag-icon-css-vn">
   <defs>
     <clipPath id="a">
-      <path fill-opacity=".67" d="M-85.334 0h682.67v512h-682.67z"/>
+      <path fill-opacity=".67" d="M177.17 0h708.66v708.66H177.17z"/>
     </clipPath>
   </defs>
-  <g fill-rule="evenodd" clip-path="url(#a)" transform="translate(80.001) scale(.9375)">
-    <path fill="#ec0015" d="M-128 0h768v512h-768z"/>
-    <path d="M349.59 381.05l-89.576-66.893-89.137 67.55 33.152-109.77-88.973-67.784 110.08-.945 34.142-109.44 34.873 109.19 110.08.144-88.517 68.423 33.884 109.53z" fill="#ff0"/>
+  <g fill-rule="evenodd" clip-path="url(#a)" transform="translate(-128) scale(.72249)">
+    <path fill="#ec0015" d="M0 0h1063v708.66H0z"/>
+    <path d="M661.055 527.478l-123.98-92.588-123.372 93.498 45.885-151.938-123.147-93.821 152.355-1.309 47.255-151.476 48.267 151.128 152.355.199-122.515 94.706 46.897 151.601z" fill="#ff0"/>
   </g>
-</svg>
-/g>
 </svg>

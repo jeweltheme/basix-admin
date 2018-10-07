@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="512" width="512" id="flag-icon-css-ax">
+<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" id="flag-icon-css-ax">
   <defs>
     <clipPath id="a">
-      <path fill-opacity=".67" d="M166.02 0h850v850h-850z"/>
+      <path fill-opacity=".67" d="M106.25 0h1133.3v850H106.25z"/>
     </clipPath>
   </defs>
-  <g clip-path="url(#a)" transform="translate(-100) scale(.6024)">
-    <path fill="#0053a5" d="M0 0h1300v850H0z"/>
+  <g clip-path="url(#a)" transform="matrix(.56472 0 0 .56482 -60.002 -.1)">
+    <path d="M0 0h1300v850H0z" fill="#0053a5"/>
     <g fill="#ffce00">
       <path d="M400 0h250v850H400z"/>
       <path d="M0 300h1300v250H0z"/>
@@ -14,7 +14,5 @@
       <path d="M475 0h100v850H475z"/>
       <path d="M0 375h1300v100H0z"/>
     </g>
-  </g>
-</svg>
   </g>
 </svg>

@@ -18165,21 +18165,30 @@ module.exports = function listToStyles (parentId, list) {
       name: 'Documentation',
       url: 'https://docs.vuejsadmin.com/docs/basix-admin-free-vuejs-admin-template/',
       icon: 'fa fa-file-text-o',
-      variant: 'danger'
+      badge: {
+        variant: 'info',
+        text: 'Docs'
+      },
     },
     {
       name: 'Download',
       url: 'https://vuejsadmin.com/product/basix-admin/',
       icon: 'fa fa-shopping-cart',
       class: 'mt-auto',
-      variant: 'success'
+      badge: {
+        variant: 'success',
+        text: 'Get It'
+      },
     },
     {
       name: 'Purchase',
       url: 'https://vuejsadmin.com/product/arbano-vuejs-admin-pro/',
       icon: 'fa fa-shopping-cart',
       class: 'mt-auto',
-      variant: 'success'
+      badge: {
+        variant: 'danger',
+        text: 'Buy Now'
+      },
     }
 
   ]
@@ -18402,7 +18411,7 @@ var esExports = { render: render, staticRenderFns: staticRenderFns }
 /* 626 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "logo2.png?2c59459900b0811a78e5d44549710325";
+module.exports = __webpack_require__.p + "logo2.png?51f9b59f2720db038f5e44e5dead5cd5";
 
 /***/ }),
 /* 627 */

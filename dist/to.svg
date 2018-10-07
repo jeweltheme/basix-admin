@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" id="flag-icon-css-to">
+<svg xmlns="http://www.w3.org/2000/svg" height="512" width="512" id="flag-icon-css-to">
   <g fill-rule="evenodd" stroke-width="1pt">
-    <path fill="#c10000" d="M0 0h640v480H0z"/>
-    <path fill="#fff" d="M0 0h249.954v200.321H0z"/>
+    <path fill="#c10000" d="M0 0h512v512H0z"/>
+    <path fill="#fff" d="M0 0h218.308v174.96H0z"/>
     <g fill="#c10000">
-      <path d="M102.854 31.24h39.84v139.54h-39.84z"/>
-      <path d="M192.55 81.086v39.84H53.01v-39.84z"/>
+      <path d="M89.832 27.285h34.795v121.873H89.832z"/>
+      <path d="M168.171 70.82v34.795H46.298V70.82z"/>
     </g>
   </g>
 </svg>
->
