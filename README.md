@@ -8,7 +8,7 @@
 
 # Get More [Free VueJS BootStrap Admin Templates](https://vuejsadmin.com) #
 
-Check out Basix Admin Template Pro [Themeforest Page](https://themeforest.net/item/basix-admin-vuejs-bootstrap-admin-dashboard-template/20838455).
+Check out [Basix Admin Template Pro](https://vuejsadmin.com/product/basix-admin-pro/).
 
 ## Basix Admin Dashboard Template ##
 
@@ -74,7 +74,8 @@ npm run build
 ### License ###
 
 MIT License
-Copyright (c) 2018 Jewel Theme
+Copyright (c) 2018 Jewel 
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
