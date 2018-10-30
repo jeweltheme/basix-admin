@@ -19,6 +19,7 @@ You can access to 5000+ Icons (Fontawesome, Brandico, Entypo, Fontelico, Glyphic
 **NOTE: Please remember to STAR this project and FOLLOW my Github to stay up to date with this template.**
 
 ## [Demo](https://preview.vuejsadmin.com/item/basix-admin) ##
+## [Basix Admin PRO](https://vuejsadmin.com/product/basix-admin-pro/) ##
 ## [Documentation](https://docs.vuejsadmin.com/basix-admin) ##
 ## [Arbano PRO](https://vuejsadmin.com/product/arbano-vuejs-admin-pro/) ##
 ## [Nixon PRO](https://vuejsadmin.com/product/nixon-pro/) ##
